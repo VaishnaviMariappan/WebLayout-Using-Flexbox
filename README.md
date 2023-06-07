@@ -83,8 +83,7 @@ Repeat the testing and iteration process until the layout meets your requirement
 
 ## OUTPUT:
 
-<img width="1280" alt="image" src="https://github.com/Monisha-11/EXP-03---MODERN-WEB/assets/93427240/b3a35b2d-cddd-4101-95c6-0900a6f2ab1b">
-
+![image](https://github.com/VaishnaviMariappan/WebLayout-Using-Flexbox/assets/94169913/66206064-22d5-4f77-893d-c7399e589e48)
 ## RESULT:
 
 Thus the web-layout using flexbox is created.
